@@ -1,4 +1,4 @@
-namespace RFID.Common.Config
+namespace RFID.Config
 {
     public class AccountDetails
     {
